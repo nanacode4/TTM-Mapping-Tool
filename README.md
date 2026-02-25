@@ -15,7 +15,7 @@ It allows users to:
 
 The tool is fully client-side (HTML + JavaScript) and uses a Cloudflare Worker to proxy Apple tile requests securely.
 
----
+
 
 ## 🛠 Tech Stack
 
@@ -32,7 +32,7 @@ The tool is fully client-side (HTML + JavaScript) and uses a Cloudflare Worker t
 ### Proxy Layer
 - Cloudflare Workers  
 
----
+
 
 ## ⚙️ Features
 
@@ -61,7 +61,7 @@ Tiles are stitched into a single canvas dynamically.
 ### 5️⃣ PNG Export
 Exports the final stitched image.
 
----
+
 
 ## 🧠 Technical Highlights
 
@@ -72,7 +72,7 @@ Exports the final stitched image.
 - Secure tile fetching via Cloudflare Worker proxy
 - Fully client-side architecture
 
----
+
 
 ## 🚀 How It Works
 
@@ -82,7 +82,7 @@ Exports the final stitched image.
 4. Click **Download**  
 5. Export the stitched image as PNG  
 
----
+
 
 ## 📷 Use Cases
 
@@ -92,7 +92,7 @@ Exports the final stitched image.
 - Map stitching demonstration  
 - Web Mercator implementation practice  
 
----
+
 
 ## ⚠️ Disclaimer
 
